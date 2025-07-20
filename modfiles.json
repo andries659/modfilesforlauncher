@@ -1,10 +1,1 @@
-[
-  {
-    "Name": "TORWLaunchpad.dll",
-    "Download": "https://github.com/All-Of-Us-Mods/LaunchpadReloaded/releases/download/v1.1.2/TORWReloaded-Dev-3.dll"
-  },
-  {
-    "Name": "MiraAPI.dll",
-    "Download": "https://github.com/All-Of-Us-Mods/MiraAPI/releases/download/0.2.0/MiraAPI.dll"
-  }
-]
+{"LatestLauncherVersion":"0.3.0.2","LauncherUpdateLink":"https://filestore.cesiumservices.com/file/aou/AOULauncher-0.3.0.2.zip","BepInEx":{"Link":"https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip","Hash":"cfef3a1e946dac5db8b9de4de1a922f47584dd775da32863f36762fbaad80f19"},"BepInEx64":{"Link":"https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip","Hash":"616ec7eb06cf11b2a0000e8fcef04d1b12bb58e84a2e0bdac9523234fc193ceb"},"ExtraData":{"Link":"https://filestore.cesiumservices.com/file/aou/ExtraData-2.zip","Hash":"85c5ef65d3004eadf462ee23fb8c603add3f5711860555f9ac2ceefc1f6e1631"},"PlatformHashes":["8a8c68efa8a26c68fbffc4030af1729c3e489df8a4d961cca31394404e5d3cf4","470baabbd03c643fe8f9bca02a608d8923e8b1c78e3f3ca4352c55b40cdc6301","527e34ad700f7871d70ba6ffe803d57abfe0294153b40df87c16fa75d276ffd9","4dab27fee5d829cd95e03093b64c30f996917e8e33c7154a90f3e70eceb49e00"],"ModList":[{"Name":"TORWLaunchpad.dll","Hash":"1b0ab64faee31db14130d9fdb780eac5d9d1fb3179f814b9ccac3dcae61907ef","Download":"https://github.com/All-Of-Us-Mods/LaunchpadReloaded/releases/download/v1.1.2/TORWReloaded-Dev-3.dll"},{"Name":"MiraAPI.dll","Hash":"8d383c51a9b89cdae51b0896114820f524785df90c9164e2f191079e15775458","Download":"https://github.com/All-Of-Us-Mods/MiraAPI/releases/download/0.2.0/MiraAPI.dll"},{"Name":"Reactor.dll","Hash":"a688500940c5a0e4db90289a48bd80daa3bea176d89390731751dcd7022e369c","Download":"https://filestore.cesiumservices.com/file/aou/Reactor-16.0.0-preview.dll"},{"Name":"Mini.RegionInstall.dll","Hash":"9015448b849cbe5edf71a62d77b32e16786e4515919751c2078062046f7de98b","Download":"https://github.com/miniduikboot/Mini.RegionInstall/releases/download/v1.2.0/Mini.RegionInstall.dll"}]}
